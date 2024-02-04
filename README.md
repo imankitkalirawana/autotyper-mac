@@ -17,7 +17,7 @@ We are excited to announce the first release of Auto Typer, a simple and user-fr
 ### How to Use:
 
 1. Enter the text you want to type in the Text widget.
-2. Click "Start Typing" to initiate the typing process.
+2. Click "Start Typing" to initiate the typing process and point your cursor where you want to type within 3 seconds.
 3. Use "Stop Typing" to halt the typing at any time.
 4. Utilize "Pause Typing" to temporarily pause the automation.
 
