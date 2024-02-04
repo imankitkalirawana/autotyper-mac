@@ -27,21 +27,20 @@ We are excited to announce the first release of Auto Typer, a simple and user-fr
 - Python 3.x
 - Tkinter
 - PyAutoGUI
-- Keyboard
 
 ### Installation:
 
 To install the application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/auto-typer.git`
+1. Clone the repository: `git clone https://github.com/imankitkalirawana/autotyper-mac.git`
 2. Navigate to the project directory: `cd auto-typer`
 3. Install dependencies: `pip install -r requirements.txt` (Make sure you have Python and pip installed)
-4. Run the application: `python your_script_name.py`
+4. Run the application: `python autotyper.py`
 
 ### Building an Executable:
 
 If you prefer a standalone executable, use the provided `setup.py` script along with `py2app` to create a macOS app bundle. Follow the instructions in the README for more details.
 
-We hope Auto Typer simplifies your typing tasks and enhances your productivity on macOS. Feel free to provide feedback or report any issues on the [GitHub repository](https://github.com/yourusername/auto-typer).
+We hope Auto Typer simplifies your typing tasks and enhances your productivity on macOS. Feel free to provide feedback or report any issues on the [GitHub repository](https://github.com/imankitkalirawana/autotyper-mac).
 
 Happy typing!
