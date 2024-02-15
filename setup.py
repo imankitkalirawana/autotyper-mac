@@ -1,6 +1,6 @@
 from setuptools import setup
 
-APP = ['autotyper.py']  # Replace 'your_script.py' with the name of your Python script
+APP = ['autotyper_fast.py']  # Replace 'your_script.py' with the name of your Python script
 DATA_FILES = []
 OPTIONS = {
     'packages': ['tkinter', 'pyautogui'],  # Add 'rubicon.objc' to the list
